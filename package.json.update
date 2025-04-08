@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "register-mastercard-app": "node scripts/cli-register-app.js"
+  }
+}
